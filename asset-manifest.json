@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/redux-movie-app/static/css/main.58fd2eed.chunk.css",
+    "main.js": "/redux-movie-app/static/js/main.001f2c76.chunk.js",
+    "main.js.map": "/redux-movie-app/static/js/main.001f2c76.chunk.js.map",
+    "runtime-main.js": "/redux-movie-app/static/js/runtime-main.25b41554.js",
+    "runtime-main.js.map": "/redux-movie-app/static/js/runtime-main.25b41554.js.map",
+    "static/css/2.a75f5a2c.chunk.css": "/redux-movie-app/static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.9e54f64d.chunk.js": "/redux-movie-app/static/js/2.9e54f64d.chunk.js",
+    "static/js/2.9e54f64d.chunk.js.map": "/redux-movie-app/static/js/2.9e54f64d.chunk.js.map",
+    "index.html": "/redux-movie-app/index.html",
+    "static/css/2.a75f5a2c.chunk.css.map": "/redux-movie-app/static/css/2.a75f5a2c.chunk.css.map",
+    "static/css/main.58fd2eed.chunk.css.map": "/redux-movie-app/static/css/main.58fd2eed.chunk.css.map",
+    "static/js/2.9e54f64d.chunk.js.LICENSE.txt": "/redux-movie-app/static/js/2.9e54f64d.chunk.js.LICENSE.txt",
+    "static/media/userImage.045956d7.jpg": "/redux-movie-app/static/media/userImage.045956d7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b41554.js",
+    "static/css/2.a75f5a2c.chunk.css",
+    "static/js/2.9e54f64d.chunk.js",
+    "static/css/main.58fd2eed.chunk.css",
+    "static/js/main.001f2c76.chunk.js"
+  ]
+}
